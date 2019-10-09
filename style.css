@@ -3,7 +3,7 @@ html{
 }
 #oraid{
   color:white;
-  font-size: 60px;
+  font-size: 220px;
   font-family:sans-serif;
   text-align: center;
 
@@ -16,4 +16,33 @@ html{
 #canavas{
   text-align: center;
   display: inline-block;
+}
+
+.butonat{
+	text-align: center;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+a{
+	color: red;
+	font-size: 30px;
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 20px;
+	margin-top: 50px;
+	text-decoration: none;
+}
+footer{
+	margin-top: 200px;
+}
+a:hover{
+	color: black;
+	background-color: white;
+	transition: 0.5s;
 }
